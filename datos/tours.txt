@@ -1,0 +1,3 @@
+T1;Saltos del Petrohué;Puerto Varas;25000;8
+T2;Frutillar Cultural;Frutillar;18000;6
+T3;Volcán Osorno;Puerto Varas;32000;10
